@@ -10,7 +10,7 @@ wrapped in full-stack software that is reliable enough to ship.
 </i></p>
 
 <p align="center">
-  <a href="mailto:collinrollingston@gmail.com">Email</a> ·
+  <a href="mailto:collinrollinston597@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/rwomushana-collin-rollingston-210b283b3/">LinkedIn</a> ·
   <a href="https://www.instagram.com/collin_rollingston/">Instagram</a>
 </p>
@@ -25,7 +25,7 @@ I'm a full-stack AI engineer who works across the whole product: Next.js and Rea
 
 - 🎓 Studying for a **BSc in Software Engineering** at **Makerere University**
 - 🤖 Building AI agents and RAG-powered applications
-- 💼 **Open to remote, part-time and freelance work.** Reach me at [collinrollingston@gmail.com](mailto:collinrollingston@gmail.com)
+- 💼 **Open to remote, part-time and freelance work.** Reach me at [collinrollinston597@gmail.com](mailto:collinrollinston597@gmail.com)
 
 ## Experience
 
@@ -52,6 +52,6 @@ I'm a full-stack AI engineer who works across the whole product: Next.js and Rea
 
 <p align="center">
   <b>Let's build something together.</b><br>
-  <a href="mailto:collinrollingston@gmail.com">collinrollingston@gmail.com</a> ·
+  <a href="mailto:collinrollinston597@gmail.com">collinrollinston597@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/rwomushana-collin-rollingston-210b283b3/">LinkedIn</a>
 </p>
