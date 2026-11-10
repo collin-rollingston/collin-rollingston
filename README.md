@@ -30,6 +30,7 @@ As an AI Engineer at Maximus Systems Uganda Limited, I did both: full-stack web 
 - 🎓 Studying for a **BSc in Software Engineering** at **Makerere University**
 - 🛠️ Building full-stack web applications and business systems
 - 🤖 Building AI agents and RAG-powered features
+- 📚 Currently learning: Kubernetes, microservices and system design, monitoring and observability, LLM fine-tuning, and Playwright end-to-end testing
 - 💼 **Open to remote, part-time and freelance work** on full-stack and AI projects. Reach me at [collinrollinston597@gmail.com](mailto:collinrollinston597@gmail.com)
 
 ## Experience
