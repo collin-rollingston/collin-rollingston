@@ -5,8 +5,8 @@
 </p>
 
 <p align="center"><i>
-I build reliable software end to end: scalable web applications and business systems,<br>
-and AI agents that reason, retrieve and act when a product needs them.
+I build web applications for businesses,<br>
+and AI agents that take real work off people's hands.
 </i></p>
 
 <p align="center">
@@ -19,10 +19,11 @@ and AI agents that reason, retrieve and act when a product needs them.
 
 ## About me
 
-I'm a full-stack engineer who builds complete products, from the interface to the database.
+I'm a full-stack engineer. I build web applications end to end with TypeScript, Next.js, Node.js and PostgreSQL, from the database and API to the screens people use every day.
 
-- **Full-stack development:** I build web applications and business systems with Next.js and React on the front end, Node.js, FastAPI and GraphQL on the back end, and PostgreSQL for data, backed by Jest tests, Docker and CI/CD.
-- **AI engineering:** when a product needs intelligence, I build the AI layer: LLM agents, retrieval-augmented generation (RAG) pipelines and Model Context Protocol (MCP) integrations.
+I also build AI agents with Python, LangChain and RAG that connect to those applications, so the software can answer questions from a business's own data and complete tasks on its own.
+
+As an AI Engineer at Maximus Systems Uganda Limited, I did both: full-stack web development and AI agent development.
 
 ## Now
 
