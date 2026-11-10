@@ -5,8 +5,8 @@
 </p>
 
 <p align="center"><i>
-I build AI systems that do real work: agents that reason, retrieve and act,<br>
-wrapped in full-stack software that is reliable enough to ship.
+I build reliable software end to end: scalable web applications and business systems,<br>
+and AI agents that reason, retrieve and act when a product needs them.
 </i></p>
 
 <p align="center">
@@ -19,17 +19,22 @@ wrapped in full-stack software that is reliable enough to ship.
 
 ## About me
 
-I'm a full-stack AI engineer who works across the whole product: Next.js and React front ends, Node.js and FastAPI back ends, and the AI layer behind them, including LLM agents, retrieval-augmented generation (RAG) pipelines and Model Context Protocol (MCP) integrations.
+I'm a full-stack engineer who builds complete products, from the interface to the database.
+
+- **Full-stack development:** I build web applications and business systems with Next.js and React on the front end, Node.js, FastAPI and GraphQL on the back end, and PostgreSQL for data, backed by Jest tests, Docker and CI/CD.
+- **AI engineering:** when a product needs intelligence, I build the AI layer: LLM agents, retrieval-augmented generation (RAG) pipelines and Model Context Protocol (MCP) integrations.
 
 ## Now
 
 - 🎓 Studying for a **BSc in Software Engineering** at **Makerere University**
-- 🤖 Building AI agents and RAG-powered applications
-- 💼 **Open to remote, part-time and freelance work.** Reach me at [collinrollinston597@gmail.com](mailto:collinrollinston597@gmail.com)
+- 🛠️ Building full-stack web applications and business systems
+- 🤖 Building AI agents and RAG-powered features
+- 💼 **Open to remote, part-time and freelance work** on full-stack and AI projects. Reach me at [collinrollinston597@gmail.com](mailto:collinrollinston597@gmail.com)
 
 ## Experience
 
 **AI Engineer** · Maximus Systems Uganda Limited · *2025 – 2026*
+- Full-stack development of web applications, across the front end, back end and database
 - AI agent development
 
 ## Tech stack
