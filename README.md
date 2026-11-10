@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><i>
-I build web applications for businesses,<br>
+I build web applications from database to interface,<br>
 and AI agents that take real work off people's hands.
 </i></p>
 
@@ -21,7 +21,7 @@ and AI agents that take real work off people's hands.
 
 I'm a full-stack engineer. I build web applications end to end with TypeScript, Next.js, Node.js and PostgreSQL, from the database and API to the screens people use every day.
 
-I also build AI agents with Python, LangChain and RAG that connect to those applications, so the software can answer questions from a business's own data and complete tasks on its own.
+I also build AI agents with Python, LangChain and RAG that connect to those applications, so the software can answer questions from an organisation's own data and complete tasks on its own.
 
 As an AI Engineer at Maximus Systems Uganda Limited, I did both: full-stack web development and AI agent development.
 
