@@ -23,8 +23,6 @@ I'm a full-stack engineer. I build web applications end to end with TypeScript, 
 
 I also build AI agents with Python, LangChain and RAG that connect to those applications, so the software can answer questions from an organisation's own data and complete tasks on its own. I test those agents with LangSmith evals, so I can measure their quality before they reach users.
 
-As an AI Engineer at Maximus Systems Uganda Limited, I did both: full-stack web development and AI agent development.
-
 ## Now
 
 - 🎓 Studying for a **BSc in Software Engineering** at **Makerere University**
